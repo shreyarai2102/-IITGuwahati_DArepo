@@ -17,7 +17,7 @@ This is the Capstone Project for Summer Analytics 2025, organized by the Consult
 - [Summer Analytics 2025 Course](https://www.cacitg.com/sa/course2s/)
 
 ## Documentation
-- Detailed project documentation is available at [./FINAL_CAPSTONE_PROJECT/Documentatio.md](./FINAL_CAPSTONE_PROJECT/Documentatio.md).
+- Detailed project documentation is available at [./Documentatio.md](./Documentatio.md).
 
 ## Files
 - `IIT_Guwahati.ipynb`: Main notebook with setup and visualization code.
