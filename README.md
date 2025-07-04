@@ -17,11 +17,11 @@ This is the Capstone Project for Summer Analytics 2025, organized by the Consult
 - [Summer Analytics 2025 Course](https://www.cacitg.com/sa/course2s/)
 
 ## Documentation
-- Detailed project documentation is available at [./FINAL_CAPSTONE_PROJECT/Documentatio.md](./FINAL_CAPSTONE_PROJECT/Documentatio.md). **Note**: If the link fails (e.g., 404 error), verify the file name (`Documentatio.md`) and case sensitivity, or check your repository root path.
+- Detailed project documentation is available at [./FINAL_CAPSTONE_PROJECT/Documentation.md](./FINAL_CAPSTONE_PROJECT/Documentation.md). **Note**: If the link fails (e.g., 404 error), verify the file name (`Documentation.md`) and case sensitivity, or check your repository root path.
 
 ## Files
 - `FINAL_CAPSTONE_PROJECT/IIT_Guwahati.ipynb`: Main notebook with setup and visualization code.
-- `FINAL_CAPSTONE_PROJECT/Documentatio.md`: Project details and instructions.
+- `FINAL_CAPSTONE_PROJECT/Documentation.md`: Project details and instructions.
 - `FINAL_CAPSTONE_PROJECT/Cars.csv`: Sample dataset.
 - `FINAL_CAPSTONE_PROJECT/SA2025_W1 (1).ipynb`: Additional notebook (possibly a draft).
 - `FINAL_CAPSTONE_PROJECT/trial.py`: Experimental Python script.
