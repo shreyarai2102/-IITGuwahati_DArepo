@@ -17,20 +17,20 @@ This is the Capstone Project for Summer Analytics 2025, organized by the Consult
 - [Summer Analytics 2025 Course](https://www.cacitg.com/sa/course2s/)
 
 ## Documentation
-- Detailed project documentation is available at [./Assingments/FINAL CAPSTONE PROJECT/Documentatio.md](./Documentatio.md).
+- Detailed project documentation is available at [./FINAL_CAPSTONE_PROJECT/Documentatio.md](./FINAL_CAPSTONE_PROJECT/Documentatio.md). **Note**: If the link fails (e.g., 404 error), verify the file name (`Documentatio.md`) and case sensitivity, or check your repository root path.
 
 ## Files
-- `IIT_Guwahati.ipynb`: Main notebook with setup and visualization code.
-- `Documentatio.md`: Project details and instructions.
-- `Cars.csv`: Sample dataset.
-- `SA2025_W1 (1).ipynb`: Additional notebook (possibly a draft).
-- `trial.py`: Experimental Python script.
+- `FINAL_CAPSTONE_PROJECT/IIT_Guwahati.ipynb`: Main notebook with setup and visualization code.
+- `FINAL_CAPSTONE_PROJECT/Documentatio.md`: Project details and instructions.
+- `FINAL_CAPSTONE_PROJECT/Cars.csv`: Sample dataset.
+- `FINAL_CAPSTONE_PROJECT/SA2025_W1 (1).ipynb`: Additional notebook (possibly a draft).
+- `FINAL_CAPSTONE_PROJECT/trial.py`: Experimental Python script.
 
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies: `pip install pathway pandas numpy bokeh haversine`.
-3. Open `IIT_Guwahati.ipynb` in Google Colab and run the cells.
-4. Refer to `Documentatio.md` for full project guidelines.
+3. Open `FINAL_CAPSTONE_PROJECT/IIT_Guwahati.ipynb` in Google Colab and run the cells.
+4. Refer to `FINAL_CAPSTONE_PROJECT/Documentatio.md` for full project guidelines.
 
 ## Contributions
 Feel free to enhance the code or documentation. Submit pull requests with clear descriptions!
