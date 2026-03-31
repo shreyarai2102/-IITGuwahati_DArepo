@@ -33,4 +33,4 @@ This is the Capstone Project for Summer Analytics 2025, organized by the Consult
 4. Refer to `FINAL_CAPSTONE_PROJECT/Documentatio.md` for full project guidelines.
 
 ## Contributions
-Feel free to enhance the code or documentation. Submit pull requests with clear descriptions!
+Feel free to enhance the code or documentation. Submit pull requests with clear descriptions.
